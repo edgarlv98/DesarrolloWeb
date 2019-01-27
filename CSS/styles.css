@@ -1,0 +1,64 @@
+body{
+    font-family: Verdana;
+    /*background-color: #82b541;*/
+    background-color: #0EB57D;
+    color: #0EB57D;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+#menu{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    background-color: rgb(148, 245, 196);
+    overflow: hidden;
+    cursor: pointer;
+    color: #82b541;
+}
+
+#menu > li{
+    float: left;
+    padding: 10px;
+    margin: 5px;
+}
+
+#menu > li:hover{
+    background-color: #a9e757;
+}
+
+#contacto{
+    list-style: none;
+}
+
+#linkin{
+    height: 30px;
+    width: 30px;
+}
+
+#mail{
+    height: 30px;
+    width: 30px;
+}
+
+#tel{
+    height: 30px;
+    width: 30px;
+}
+
+#miFoto{
+    height: 100px;
+    widows: 100px;
+}
+
+#up{
+    background-color:#0EB57D;
+}
+
+#down{
+    background-color: aliceblue;
+}
